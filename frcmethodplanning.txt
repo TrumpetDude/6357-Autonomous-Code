@@ -2,7 +2,7 @@
 
 
 METHODS ONLY FOR AUTONOMOUS
-
+type
 
 
 
