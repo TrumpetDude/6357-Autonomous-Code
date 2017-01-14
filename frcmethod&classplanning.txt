@@ -2,30 +2,18 @@
 
 
 METHODS ONLY FOR AUTONOMOUS
--Alignment Method 
--Identification method 
--Adjustment method
--Vision Method
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-Auto Class  
+  -Alignment Method 
+  -Identification method 
+  -Adjustment method
+  -Vision Method
+  -GyroScope Method  
+  -Check GyroScope Method 
 
 
 
 GENERAL METHODS
--Fuel Conveyer(if needed)
+-Clearing Method
 -GyroScope Method  
 -Check GyroScope Method 
 -Driving Class
