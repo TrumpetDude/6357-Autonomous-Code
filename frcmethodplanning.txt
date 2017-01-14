@@ -2,8 +2,11 @@
 
 
 METHODS ONLY FOR AUTONOMOUS
-
-
+-Alignment Method 
+-Identification method 
+-Adjustment method
+-Gear Placement Method 
+-Vision Method
 
 
 
@@ -23,9 +26,9 @@ METHODS ONLY FOR AUTONOMOUS
 
 
 GENERAL METHODS
-
-
-
+-Fuel Conveyer
+-GyroScope Method  
+-Check GyroScope Method 
 
 
 
@@ -39,3 +42,6 @@ GENERAL METHODS
 
 
 METHODS FOR TELE-OP
+-Gear Retrieval
+-Grip Rope Method
+-Touch Telepad method
