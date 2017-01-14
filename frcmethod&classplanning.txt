@@ -25,7 +25,7 @@ METHODS ONLY FOR AUTONOMOUS
 
 
 GENERAL METHODS
--Fuel Conveyer
+-Fuel Conveyer(if needed)
 -GyroScope Method  
 -Check GyroScope Method 
 -Driving Class
