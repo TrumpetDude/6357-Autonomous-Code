@@ -1,0 +1,41 @@
+//////////////////////////// METHODS \\\\\\\\\\\\\\\\\\\\\\
+
+
+METHODS ONLY FOR AUTONOMOUS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GENERAL METHODS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+METHODS FOR TELE-OP
