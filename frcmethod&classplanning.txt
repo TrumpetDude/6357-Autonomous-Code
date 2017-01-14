@@ -5,7 +5,6 @@ METHODS ONLY FOR AUTONOMOUS
 -Alignment Method 
 -Identification method 
 -Adjustment method
--Gear Placement Method 
 -Vision Method
 
 
@@ -33,7 +32,7 @@ GENERAL METHODS
   -Forward Method 
   -Backward Method    
   -Rotating Method
-
+-Gear Placement Method 
 
 
 
