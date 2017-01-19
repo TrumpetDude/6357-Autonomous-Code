@@ -1,1 +1,2 @@
-# 6357-Autonomous-Code
+Use This Repository Instead:
+https://github.com/frc6357/robot_code
